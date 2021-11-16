@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         关闭知乎和csdn的弹窗
 // @namespace    http://tampermonkey.net/
-// @version      0.8
+// @version      0.9
 // @description  关闭知乎和csdn每次进入都会弹窗登录的弹窗
 // @author       zsj
 // @match        *://www.zhihu.com/*
@@ -9,9 +9,9 @@
 // @match        *://blog.csdn.net/*
 // @homepageURL  https://github.com/zsjun/ygreaseMonkey.git
 // @icon         https://www.google.com/s2/favicons?domain=zhihu.com
-// @supportURL   https://github.com/zsjun/ygreaseMonkey/blob/main/%E5%85%B3%E9%97%AD%E7%9F%A5%E4%B9%8E%E5%92%8Ccsdn%E7%9A%84%E5%BC%B9%E7%AA%97.user.js
+// @supportURL   https://github.com/zsjun/ygreaseMonkey/blob/main/关闭知乎和csdn的弹窗.user.js
 // @updateURL    https://github.com/zsjun/ygreaseMonkey/issues
-// @downloadURL  https://github.com/zsjun/ygreaseMonkey/blob/main/%E5%85%B3%E9%97%AD%E7%9F%A5%E4%B9%8E%E5%92%8Ccsdn%E7%9A%84%E5%BC%B9%E7%AA%97.user.js
+// @downloadURL  https://github.com/zsjun/ygreaseMonkey/blob/main/关闭知乎和csdn的弹窗.user.js
 // @grant        none
 // @license MIT
 // ==/UserScript==
